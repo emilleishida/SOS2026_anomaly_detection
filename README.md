@@ -10,6 +10,8 @@ Material for [School of Statistics 2026](https://indico.in2p3.fr/event/37891/)
 Original data from the [PLAsTiCC Kaggle](https://www.kaggle.com/c/PLAsTiCC-2018) data challenge
 Analysis taken from the [SNAD tutorials](https://coniferest.snad.space/en/latest/notebooks.html)
 
+You can also run the notebook in [GoogleColab](https://drive.google.com/file/d/1hGKnDcrOS-oqOag-r5YSlRkV9FB6iC5Y/view?usp=sharing)
+
 ## Installation
 
 In order to proper run the materials given here, we advise you to creat a virtual environment and work within it.  
