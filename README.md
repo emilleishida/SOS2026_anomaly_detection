@@ -1,6 +1,14 @@
+<p>
+<img src="images/snad_cropped.png" width="200">
+<img src="images/coniferest_cropped.png" width="120">
+</p>
+
 # Anomaly detection in Astronomical Light curves
 Material for [School of Statistics 2026](https://indico.in2p3.fr/event/37891/)  
 *by Emille Ishida, May/2026*  
+
+Original data from the [PLAsTiCC Kaggle](https://www.kaggle.com/c/PLAsTiCC-2018) data challenge
+Analysis taken from the [SNAD tutorials](https://coniferest.snad.space/en/latest/notebooks.html)
 
 ## Installation
 
