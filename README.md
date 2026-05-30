@@ -1,2 +1,6 @@
-# SOS2026_anomaly_detection
-Material for School of Statistics 2026 - Anomaly detection section
+# Anomaly detection in Astronomical Light curves
+Material for School of Statistics 2026  
+*by Emille Ishida, May/2026*  
+
+
+ 
