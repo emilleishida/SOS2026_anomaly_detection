@@ -4,3 +4,4 @@ matplotlib
 datasets
 jupyter
 scikit-learn
+coniferest
